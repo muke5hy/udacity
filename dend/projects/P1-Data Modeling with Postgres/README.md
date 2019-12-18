@@ -1,6 +1,6 @@
 # Project 1: Data Modeling with Postgres
 
-<p align="center"><img src="data/etl.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
+<p align="center"><img src="images/etl.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
 ## Introduction
 We are responsible for creating ETL for the analytics team at Sparkify. They were interested in analyzing data collected on songs and user activity through their new music streaming app. Currently, the data is in JSON files, we should create an ETL pipeline process to store the data in RDBMS database for easy annalysis of data.
@@ -27,7 +27,7 @@ Example:
 log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json
 ```
-<img src="./data/log-data.png" width="50%"/>
+<img src="./images/log-data.png" width="50%"/>
 
 # Schema for Song Play Analysis
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. This includes the following tables.
