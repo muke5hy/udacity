@@ -33,4 +33,5 @@ zipf.close()
 
 http 'https://bdmutualfund.paytmmoney.com/mf/v1/mf-scheme/transaction-meta/karvy?transactionTypeTag=N&schemeCode=STD2&amcCode=BARSPN&karvyTransactionIdentifier=D'
 
-http 'https://bdmutualfund.paytmmoney.com/mf/v1/mf-scheme/transaction-meta?transactionTypeTag=N&schemeCode=STD2&amcCode=BARSPN&karvyTransactionIdentifier=D'
+http 'https://bdmutualfund.paytmmoney.com/mf/v1/mf-scheme/transaction-meta?transactionTypeTag=N&schemeCode=STD2&amcCode=BARSPN&karvyTransactionIdentifier=D'EP-MF-UTIMF-K-201119-104135
+
